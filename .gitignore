@@ -1,0 +1,2 @@
+#Loại trừ các thư mục hoặc file không muốn đưa lên server git
+/node_modules 
